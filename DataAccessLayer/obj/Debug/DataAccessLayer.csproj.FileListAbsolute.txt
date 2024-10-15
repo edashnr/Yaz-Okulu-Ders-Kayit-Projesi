@@ -1,0 +1,14 @@
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

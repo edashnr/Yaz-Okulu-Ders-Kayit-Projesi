@@ -1,0 +1,8 @@
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\bin\Debug\net4.7.2\EntityLayer.dll
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\bin\Debug\net4.7.2\EntityLayer.pdb
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\obj\Debug\net4.7.2\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\obj\Debug\net4.7.2\EntityLayer.AssemblyInfo.cs
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\obj\Debug\net4.7.2\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\obj\Debug\net4.7.2\EntityLayer.dll
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\obj\Debug\net4.7.2\EntityLayer.pdb
+C:\Users\EDANUR ŞAHİNER\Source\Repos\YazOkuluDersler\Entity\obj\Debug\net4.7.2\EntityLayer.csproj.AssemblyReference.cache
